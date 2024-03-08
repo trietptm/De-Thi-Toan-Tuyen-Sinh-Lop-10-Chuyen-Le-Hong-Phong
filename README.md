@@ -6,6 +6,9 @@ Tuyển tập Đề Thi Toán Tuyển Sinh Vào Lớp 10 Chuyên Trường THPT 
 
 ![image](https://user-images.githubusercontent.com/526959/226302710-c4b9cb06-d0ca-4705-9741-3acf1ff4bf7f.png)
 
+## 2005-2006:
+![image](https://github.com/trietptm/De-Thi-Toan-Tuyen-Sinh-Lop-10-Chuyen-Le-Hong-Phong/assets/526959/a36b965e-4d4e-4ebb-b643-e85be0a3801d)
+
 ## 2002:
 ![image](https://github.com/trietptm/De-Thi-Toan-Tuyen-Sinh-Lop-10-Chuyen-Le-Hong-Phong/assets/526959/091d6a4f-e97c-4285-8e9c-90f7ab252f05)
 
